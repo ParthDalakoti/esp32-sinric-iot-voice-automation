@@ -1,5 +1,8 @@
 # Dual-Mode IoT Smart Home Controller: ESP32 + Sinric Pro (Alexa/Google Voice) & 38kHz IR Remote Failsafe
 
+
+[![Firmware CI](https://github.com/ParthDalakoti/esp32-sinric-iot-voice-automation/actions/workflows/firmware-ci.yml/badge.svg)](https://github.com/ParthDalakoti/esp32-sinric-iot-voice-automation/actions) [![Wokwi Simulation](https://img.shields.io/badge/Simulation-Wokwi_Virtual_Lab-00B4D8.svg?style=for-the-badge&logo=espressif)](https://wokwi.com)
+
 [![Microcontroller](https://img.shields.io/badge/MCU-ESP32--WROOM--32-E7352C.svg?style=for-the-badge&logo=espressif)](https://www.espressif.com/)
 [![Cloud](https://img.shields.io/badge/Cloud_IoT-Sinric_Pro-00BCD4.svg?style=for-the-badge)](https://sinric.pro/)
 [![Voice Control](https://img.shields.io/badge/Voice-Amazon_Alexa_%7C_Google_Home-blue.svg?style=for-the-badge)]()
@@ -91,3 +94,10 @@ graph TD
 *B.Tech in Electronics & Communication Engineering (2023–2027)*  
 *Graphic Era Hill University (GEHU), Bhimtal Campus*  
 *President, Robotics & Automation Club, GEHU*
+
+---
+
+## 📸 Hardware Bench Test Photos
+
+![Hardware Prototype Setup](media/hardware_demo_1.jpg)
+
